@@ -215,7 +215,7 @@ chmod +x stream_rtsp.py
    ffplay rtsp://<pi-ip>:8554/ir1
    ffplay rtsp://<pi-ip>:8554/ir2
    ```
-
+    You can also view the using vlc 
 ---
 
 ## Troubleshooting
